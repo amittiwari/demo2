@@ -1,4 +1,7 @@
 demo2
 =====
 
-All About what is java
+class mayank
+{
+System.out.println("My Name is Mayank ");
+}
